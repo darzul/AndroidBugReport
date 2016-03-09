@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBugReport</string>
+    <string name="action_open_close">Open/Close</string>
+</resources>
